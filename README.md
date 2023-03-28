@@ -42,7 +42,7 @@ def circulate():
 ```
 
 ## Output:
-![exp 1b](https://user-images.githubusercontent.com/123259278/228165357-4e2299ee-d40f-412e-9896-8145bdb0feaa.png)
+"C:\Users\SEC\Pictures\exp 1b.png"
 
 
 ## Result:
