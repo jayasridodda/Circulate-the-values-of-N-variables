@@ -30,16 +30,6 @@ def circulate():
     print("After circulating the values are:",result
  
  ```
-#Program to circulate N values.
-#Developed by: Jayasri Dodda
-#RegisterNumber: 212222240028
-def circulate():
-    list1=eval(input())
-    n=int(input())
-    result=list1[n:]+list1[:n]
-    print("After circulating the values are:",result)
-    
-```
 
 ## Output:
 "C:\Users\SEC\Pictures\exp 1b.png"
