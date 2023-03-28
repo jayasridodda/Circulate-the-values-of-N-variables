@@ -31,8 +31,9 @@ def circulate():
  
  ```
 
-## Output:
-"C:\Users\SEC\Pictures\exp 1b.png"
+
+# Output:
+#![exp 1b](https://user-images.githubusercontent.com/123259278/228167060-fc5c9ff2-fa09-43c1-8644-8fab5f194c0b.png)
 
 
 ## Result:
